@@ -1,5 +1,5 @@
 class Student:
-    """Functions: record student\'s information, and also their scores for each course.
+    """Functions: record student's information, and also their scores for each course.
     Of course, the score would be sorted."""
 
     def __init__(self, department, grade, id_num, name, economics,
