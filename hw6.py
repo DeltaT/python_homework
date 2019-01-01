@@ -1,12 +1,3 @@
-#************************************************
-#    Name: 鍾維芯                                #
-#    Class: 統計系四年級                         #
-#    SID: S044702XX                             #
-#    Program Name: hw6.py                       #
-#    Function: 在Python中使用正規表示法的處理     #
-#    Limitations: (1) Run on Python3.X only     #
-#    Date: 2018/12/30                           #
-#*************************************************
 import re
 
 
